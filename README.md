@@ -1,23 +1,32 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=F8FAFC&text=VIGNESH%20MOOVENDHAN&height=120&fontSize=42&fontAlignY=50&desc=AI%20%E2%80%A2%20LLM%20ENGINEER%20%E2%80%A2%20APPLIED%20AI%20SYSTEMS&descSize=13&descAlignY=82&descColor=94A3B8">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0F172A&text=VIGNESH%20MOOVENDHAN&height=120&fontSize=42&fontAlignY=50&desc=AI%20%E2%80%A2%20LLM%20ENGINEER%20%E2%80%A2%20APPLIED%20AI%20SYSTEMS&descSize=13&descAlignY=82&descColor=334155" width="100%" alt="Header" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&duration=4000&pause=1000&color=F8FAFC&center=true&vCenter=true&width=650&height=55&lines=VIGNESH+MOOVENDHAN">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&duration=4000&pause=1000&color=0F172A&center=true&vCenter=true&width=650&height=55&lines=VIGNESH+MOOVENDHAN" alt="Vignesh Moovendhan" />
 </picture>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=15&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=28&lines=AI+ENGINEER+%E2%80%A2+LLM+ARCHITECT+%E2%80%A2+APPLIED+AI+SYSTEMS">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=15&duration=4000&pause=1000&color=0284C7&center=true&vCenter=true&width=600&height=28&lines=AI+ENGINEER+%E2%80%A2+LLM+ARCHITECT+%E2%80%A2+APPLIED+AI+SYSTEMS" alt="Title" />
+</picture>
+
+<br/>
+
 <p align="center">
-  <a href="https://viggyscorner.ai.studio" target="_blank"><code>Portfolio</code></a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/vigneshoffcl/" target="_blank"><code>LinkedIn</code></a>
-  &nbsp;•&nbsp;
-  <a href="mailto:vigneshoffclmail@gmail.com"><code>Email</code></a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/witviggy"><code>GitHub</code></a>
+  <a href="https://viggyscorner.ai.studio" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vigneshoffcl/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:vigneshoffclmail@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/witviggy"><img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1400&color=94A3B8&center=true&vCenter=true&width=580&lines=autonomous+agents+%2B+langgraph+%2B+voice+ai;production+rag+%2B+hybrid+retrieval+%2B+vector+search;prototype+%E2%86%92+resilient+scalable+ai+systems">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1400&color=0F172A&center=true&vCenter=true&width=580&lines=autonomous+agents+%2B+langgraph+%2B+voice+ai;production+rag+%2B+hybrid+retrieval+%2B+vector+search;prototype+%E2%86%92+resilient+scalable+ai+systems" alt="Focus Areas" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1400&color=94A3B8&center=true&vCenter=true&width=600&height=32&lines=Autonomous+Multi-Agent+Workflows;Conversational+Voice+Agents+%26+Call+Automation;Enterprise+RAG+%2B+Semantic+Vector+Search;Prototype+%E2%86%92+Production-Grade+AI+Architecture">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1400&color=334155&center=true&vCenter=true&width=600&height=32&lines=Autonomous+Multi-Agent+Workflows;Conversational+Voice+Agents+%26+Call+Automation;Enterprise+RAG+%2B+Semantic+Vector+Search;Prototype+%E2%86%92+Production-Grade+AI+Architecture" alt="Focus Areas" />
 </picture>
 
 </div>
@@ -26,155 +35,121 @@
 
 ---
 
-### § &nbsp; ABOUT
+## ◈ About
 
-```text
-focus    :  GenAI Systems, Autonomous Voice Agents, Production RAG
-stack    :  Python, LangGraph, Qdrant, FastAPI, AWS & Azure Cloud
-location :  Chennai, India
-```
-
-AI/ML Engineer with **2+ years** architecting production-grade Generative AI systems, hybrid RAG pipelines, and multi-agent frameworks. Focused on turning experimental LLM concepts into resilient, low-latency software backed by robust cloud and data engineering foundations.
+> **AI/ML Engineer** with **2+ years** building production-grade Generative AI systems, hybrid RAG pipelines, and multi-agent frameworks. Experienced delivering end-to-end cloud data pipelines on AWS & Azure, integrating vector databases and LLMs into scalable enterprise software.
+>
+> 📍 **Chennai, India** &nbsp;•&nbsp; 🌐 **[viggyscorner.ai.studio](https://viggyscorner.ai.studio)**
 
 <br/>
 
-### § &nbsp; EXPERIENCE
+## ◈ Experience
 
-<table>
-<tr>
-<td width="240" valign="top">
-<b>Bonbloc Technologies</b><br/>
-<sub>Associate Software Engineer</sub><br/>
-<sub>Mar 2025 – Present</sub>
-</td>
-<td valign="top">
+### ▸ Bonbloc Technologies &nbsp;|&nbsp; `Associate Software Engineer`
+*Mar 2025 – Present &nbsp;•&nbsp; Chennai, India*
 
 - **BonblocGPT** — Designed an enterprise conversational AI platform incorporating persistent conversation memory, granular RBAC, and org-wide knowledge retrieval.
-- **Autonomous Sales Voice Agent** — Engineered an outbound voice agent with **LangGraph**, **Twilio Programmable Voice**, and **ElevenLabs TTS/STT** executing structured cold discovery and live handoffs.
-- **TUNAI Veterinary Assistant** — Built an expert RAG pipeline with semantic chunking and reciprocal rank fusion on **LangChain** + **Qdrant** for livestock diagnosis.
+- **Autonomous Sales Voice Agent** — Engineered an outbound voice agent with **LangGraph**, **Twilio Programmable Voice**, and **ElevenLabs TTS/STT** executing structured cold discovery and live sales rep handoffs.
+- **TUNAI Veterinary Assistant** — Built a livestock disease diagnosis RAG pipeline with semantic chunking and reciprocal rank fusion on **LangChain** + **Qdrant**.
 - **Enterprise Legal & LMS** — Delivered compliance agents for automated NDA/MSA review and educational GenAI modules serving **10,000+** learners.
 
-</td>
-</tr>
-<tr>
-<td valign="top">
-<b>Basal AI</b><br/>
-<sub>AI & Data Intern</sub><br/>
-<sub>Dec 2024 – Mar 2025</sub>
-</td>
-<td valign="top">
+<br/>
 
-- **Macy's Serverless Pipeline** — Built an automated ETL pipeline across **AWS Lambda**, **Amazon Redshift**, and **AWS Step Functions** (Medallion architecture) running daily with zero downtime for 6 months.
-- **Podcast Intelligence Hub** — Automated speech-to-text, key takeaways extraction, and executive brief synthesis via **Azure Speech Services** and LLMs.
+### ▸ Basal AI &nbsp;|&nbsp; `AI & Data Intern`
+*Dec 2024 – Mar 2025 &nbsp;•&nbsp; Bengaluru, India*
+
+- **Macy's Serverless Pipeline** — Architected an automated ETL pipeline across **AWS Lambda**, **Amazon Redshift**, and **AWS Step Functions** adhering to Medallion architecture (Bronze → Silver → Gold) running with zero downtime for 6 months.
+- **Podcast Intelligence Hub** — Automated audio transcription, topic clustering, and executive brief synthesis via **Azure Speech Services** and LLMs.
 - **Synthetic Fashion Pipeline (Myntra)** — Prototyped a diffusion model photoshoot replacement tool projecting 60% per-SKU cost reduction.
 
-</td>
-</tr>
-<tr>
-<td valign="top">
-<b>Genpact</b><br/>
-<sub>Software Intern</sub><br/>
-<sub>Feb 2024 – Aug 2024</sub>
-</td>
-<td valign="top">
+<br/>
 
-- **Cloud Data Engineering** — Developed data aggregation and transformation pipelines using **Azure Data Factory** and **Azure Stream Analytics** feeding real-time business intelligence dashboards.
+### ▸ Genpact &nbsp;|&nbsp; `Software Intern`
+*Feb 2024 – Aug 2024 &nbsp;•&nbsp; Bengaluru, India*
+
+- **Cloud Data Engineering** — Developed data aggregation and transformation pipelines using **Azure Data Factory** and **Azure Stream Analytics** feeding real-time BI dashboards.
 - **Invoice Auditing AI** — Created an anomaly-detection and reconciliation tool using OpenAI APIs to streamline financial audits.
 
-</td>
-</tr>
-</table>
+<br/>
+
+## ◈ Capabilities & Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,cpp,fastapi,django,postgres,mongodb,aws,azure,docker&theme=dark" alt="Tech Stack Icons" />
+</div>
 
 <br/>
 
-### § &nbsp; CAPABILITIES
+| Domain | Stack & Tooling |
+| :--- | :--- |
+| **Agentic & Voice AI** | `LangGraph` `LangChain` `CrewAI` `Agno` `Twilio Voice` `ElevenLabs` |
+| **RAG & Vector Search** | `Qdrant` `Milvus` `Semantic Chunking` `Hybrid Search` `Reranking` |
+| **Foundation Models** | `OpenAI (GPT-4o)` `Claude` `LlamaIndex` `Prompt Engineering` `Function Calling` |
+| **Backend & Data** | `Python` `FastAPI` `Django` `PostgreSQL` `REST APIs` `AsyncIO` `Medallion ETL` |
+| **Cloud Infrastructure** | `AWS Lambda` `Amazon Redshift` `AWS Step Functions` `Azure AI Studio` `Docker` |
+
+<br/>
+
+## ◈ Selected Work
 
 <table>
-<tr>
-<td width="180"><code>Agents & Voice</code></td>
-<td>LangGraph · LangChain · CrewAI · Agno · Twilio Voice · ElevenLabs</td>
-</tr>
-<tr>
-<td><code>Retrieval & Vector</code></td>
-<td>Qdrant · Milvus · Semantic Chunking · Hybrid Search · Reranking</td>
-</tr>
-<tr>
-<td><code>Foundation Models</code></td>
-<td>OpenAI (GPT-4o) · Claude · LlamaIndex · Prompt Engineering · Function Calling</td>
-</tr>
-<tr>
-<td><code>Backend & Data</code></td>
-<td>Python · FastAPI · Django · PostgreSQL · REST APIs · AsyncIO · Medallion ETL</td>
-</tr>
-<tr>
-<td><code>Cloud Infrastructure</code></td>
-<td>AWS (Lambda, Redshift, Step Functions) · Azure (Data Factory, Speech, AI Studio) · Docker</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>🎙️ HireAI</h3>
+        <sub><b>VOICE-FIRST RECRUITING SUITE</b></sub>
+      </div>
+      <br/>
+      Autonomous hiring workspace utilizing conversational voice agents to conduct initial screenings, evaluate candidate skill match, and coordinate interview pipelines.
+      <br/><br/>
+      <div align="center">
+        <a href="https://github.com/witviggy/HireAI">
+          <img src="https://img.shields.io/badge/View_Repo-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="HireAI Repo" />
+        </a>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>🧠 SpeechGPT</h3>
+        <sub><b>EMBEDDED EDGE AI ASSISTANT</b></sub>
+      </div>
+      <br/>
+      Raspberry Pi-powered physical assistant combining hands-free continuous speech recognition with real-time computer vision object detection for localized interaction.
+      <br/><br/>
+      <div align="center">
+        <a href="https://github.com/witviggy/SpeechGPT">
+          <img src="https://img.shields.io/badge/View_Repo-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="SpeechGPT Repo" />
+        </a>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>📄 ChatPDF</h3>
+        <sub><b>DOCUMENT INTELLIGENCE RAG</b></sub>
+      </div>
+      <br/>
+      Context-aware document assistant powered by LangChain and OpenAI to ingest complex multi-page PDFs and answer questions with exact citations.
+      <br/><br/>
+      <div align="center">
+        <a href="https://github.com/witviggy/ChatPDF">
+          <img src="https://img.shields.io/badge/View_Repo-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="ChatPDF Repo" />
+        </a>
+      </div>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-### § &nbsp; SELECTED WORK
+## ◈ Recognition & Credentials
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### 01 / HireAI
-<sub><b>Voice-First AI Recruiter</b></sub>
-
-Autonomous hiring workspace utilizing conversational voice agents to conduct initial screenings, evaluate skill match, and coordinate interview pipelines.
-
-<br/>
-
-[→ `repository`](https://github.com/witviggy/HireAI)
-
-</td>
-<td width="33%" valign="top">
-
-#### 02 / SpeechGPT
-<sub><b>Physical Edge Intelligence</b></sub>
-
-Raspberry Pi–based localized assistant combining hands-free continuous speech recognition with real-time computer vision object detection.
-
-<br/>
-
-[→ `repository`](https://github.com/witviggy/SpeechGPT)
-
-</td>
-<td width="33%" valign="top">
-
-#### 03 / ChatPDF
-<sub><b>Document Intelligence</b></sub>
-
-Context-aware RAG assistant powered by LangChain and OpenAI to ingest complex multi-page PDFs and answer questions with exact citations.
-
-<br/>
-
-[→ `repository`](https://github.com/witviggy/ChatPDF)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### § &nbsp; RECOGNITION
-
-<table>
-<tr>
-<td width="180"><code>Hackathon Finalist</code></td>
-<td><b>Meta PyTorch OpenEnv Hackathon × Scaler</b> (2026) — Finalist team selected out of 31,000+ teams</td>
-</tr>
-<tr>
-<td><code>Enterprise GenAI</code></td>
-<td><b>Economic Times GenAI Hackathon</b> (2026) — Semi-Finalist</td>
-</tr>
-<tr>
-<td><code>Certifications</code></td>
-<td>Microsoft Certified: AI-103 · Claude Certified Architect Foundations · Microsoft AI-900</td>
-</tr>
-</table>
+| Milestone | Entity & Distinction | Year |
+| :--- | :--- | :---: |
+| 🏆 **National Finalist** | **Meta PyTorch OpenEnv Hackathon × Scaler** *(Top finalist team out of 31,000+ teams)* | 2026 |
+| 🥈 **Semi-Finalist** | **Economic Times GenAI Hackathon** *(Enterprise Generative AI track)* | 2026 |
+| 📜 **Azure Certified** | **Microsoft Certified: AI-103** — Developing AI Apps & Agents on Azure | 2026 |
+| 📜 **Claude Certified** | **Claude Certified Architect Foundations** — Anthropic | 2026 |
+| 📜 **AI Fundamentals** | **Microsoft Certified: Azure AI Fundamentals (AI-900)** | 2026 |
 
 <br/>
 
@@ -182,17 +157,25 @@ Context-aware RAG assistant powered by LangChain and OpenAI to ingest complex mu
 
 <div align="center">
 
-<sub>CRAFTED WITH PRECISION &bull; OPEN TO HIGH-IMPACT APPLIED AI ROLES</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=15&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=28&lines=LET'S+BUILD+SOMETHING+IMPACTFUL">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=15&duration=4000&pause=1000&color=0F172A&center=true&vCenter=true&width=500&height=28&lines=LET'S+BUILD+SOMETHING+IMPACTFUL" alt="Call to Action" />
+</picture>
 
 <p align="center">
-  <a href="https://viggyscorner.ai.studio" target="_blank"><code>Portfolio</code></a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/vigneshoffcl/" target="_blank"><code>LinkedIn</code></a>
-  &nbsp;•&nbsp;
-  <a href="mailto:vigneshoffclmail@gmail.com"><code>Email</code></a>
+  <a href="https://viggyscorner.ai.studio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=38BDF8" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vigneshoffcl/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:vigneshoffclmail@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/witviggy"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
+<sub>© 2026 Vignesh Moovendhan</sub>
+
 </div>
+
 
 
 
