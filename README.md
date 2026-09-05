@@ -1,119 +1,153 @@
-<h1 align="center">Hi 👋, I'm Vignesh</h1>
-<h3 align="center">AI Developer • LLM Engineer • Applied AI Software Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://viggyscorner.ai.studio" target="_blank">🌐 Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/vigneshoffcl/" target="_blank">💼 LinkedIn</a> ·
-  <a href="mailto:vigneshoffclmail@gmail.com">📧 Email</a>
-</p>
+<br/>
 
-<!-- Optional: replace this with your own banner image URL -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=180&section=header&text=Building%20Intelligent%20Systems&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="banner" width="100%"/>
-</p>
+# VIGNESH
 
----
+<sub>AI DEVELOPER  ·  LLM ENGINEER  ·  APPLIED AI SOFTWARE ENGINEER</sub>
 
-### 🚀 About Me
+<br/>
+<br/>
 
-- 🤖 I design and ship **LLM-powered applications** — agents, RAG pipelines, and voice-driven automation
-- 🛠️ I work across the full stack: from model orchestration to production-grade APIs and cloud infra
-- 📈 Currently exploring multi-agent frameworks (**LangGraph**, **CrewAI**, **Agno**) for real-world workflows
-- 📫 Reach me at **vigneshoffclmail@gmail.com**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=8B8B8B&center=true&vCenter=true&width=560&letterSpacing=1px&lines=building+ai+agents+%2B+voice+systems;langgraph+%C2%B7+langchain+%C2%B7+agno;prototype+%E2%86%92+production" alt="Typing SVG" />
 
----
+<br/>
 
-### 🧰 Tech & Tools
+[`Portfolio`](https://viggyscorner.ai.studio) &nbsp;/&nbsp; [`LinkedIn`](https://www.linkedin.com/in/vigneshoffcl/) &nbsp;/&nbsp; [`Email`](mailto:vigneshoffclmail@gmail.com)
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+<br/>
 
-**Backend & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</p>
+&nbsp;
 
-**Databases & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+</div>
 
-**AI / Agentic Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agno-6E56CF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white" />
-</p>
+<br/>
 
----
+## About
 
-### 🔥 Featured Projects
+AI/ML Engineer with 2+ years building production-grade Generative AI systems, RAG pipelines, and multi-agent frameworks.
+
+Delivered end-to-end data engineering pipelines on AWS and Azure — focused on integrating GenAI, Vector DBs, and LLMs into scalable software.
+
+<sub>📍 Chennai, India</sub>
+
+<br/>
+
+## Experience
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🎙️ HireAI</h4>
-      <p>AI-powered recruiting platform using voice agents to automate candidate screening, interviews, and hiring workflows.</p>
-      <!-- <img src="link-to-your-hosted-gif.gif" width="100%"/> -->
-      <a href="https://github.com/witviggy/HireAI">Repository →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🧠 SpeechGPT</h4>
-      <p>Raspberry Pi–based intelligent assistant combining speech recognition and object detection for interactive AI applications.</p>
-      <!-- <img src="link-to-your-hosted-gif.gif" width="100%"/> -->
-      <a href="https://github.com/witviggy/SpeechGPT">Repository →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h4>📄 ChatPDF</h4>
-      <p>AI-powered document assistant using LangChain, OpenAI, and Streamlit to chat with your PDFs.</p>
-      <!-- <img src="link-to-your-hosted-gif.gif" width="100%"/> -->
-      <a href="https://github.com/witviggy/ChatPDF">Repository →</a>
-    </td>
-  </tr>
+<tr>
+<td valign="top" width="220"><b>Bonbloc Technologies</b><br/><sub>Associate Software Engineer</sub><br/><sub>Mar 2025 – Present</sub></td>
+<td valign="top">
+Built <b>BonblocGPT</b>, an enterprise AI platform with conversational memory, RBAC, and org-wide knowledge retrieval.<br/>
+Engineered a <b>multi-agent Voice AI sales system</b> (LangGraph + Twilio + ElevenLabs) for autonomous outbound calls and lead qualification.<br/>
+Built <b>TUNAI</b>, a veterinary RAG assistant (LangChain, Qdrant) for livestock disease diagnosis.<br/>
+Deployed legal AI agents for NDA/MSA generation and AI services for an EdTech LMS serving 10,000+ users.
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Basal AI</b><br/><sub>AI & Data Intern</sub><br/><sub>Dec 2024 – Mar 2025</sub></td>
+<td valign="top">
+Architected a serverless AWS data pipeline (Lambda, Redshift, Step Functions, Medallion architecture) for Macy's — zero-downtime automated daily runs over 6 months.<br/>
+Built a podcast intelligence pipeline (Azure Speech Services + LLMs) for automated transcription and insight generation.<br/>
+Prototyped a GenAI synthetic image pipeline for Myntra — 60% cost reduction potential per SKU shoot.
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Genpact</b><br/><sub>Software Intern</sub><br/><sub>Feb 2024 – Aug 2024</sub></td>
+<td valign="top">
+Built retail data pipelines on Azure (Data Factory, Stream Analytics) for real-time processing and BI visualization.<br/>
+Developed an AI-powered invoice auditing solution using OpenAI APIs for anomaly detection.
+</td>
+</tr>
 </table>
 
-> 💡 Tip: Replace the commented `<img>` tags above with GIFs of your apps in action (record with your OS screen recorder, convert with [Gifski](https://gif.ski/), and host on the repo itself or via [GitHub raw links](https://docs.github.com/en/repositories/working-with-files/using-files/viewing-a-file)).
+<br/>
 
----
+## Stack
 
-### 📊 GitHub Stats
+<table>
+<tr>
+<td><b>GenAI & LLMs</b></td>
+<td>OpenAI · Claude · LangChain · LangGraph · LlamaIndex · Multi-Agent Systems · Prompt Engineering</td>
+</tr>
+<tr>
+<td><b>Voice AI</b></td>
+<td>Twilio · ElevenLabs · Conversational Voice Agents</td>
+</tr>
+<tr>
+<td><b>RAG & Vector Search</b></td>
+<td>Qdrant · Milvus · Semantic Chunking · Hybrid Search · Reranking</td>
+</tr>
+<tr>
+<td><b>Cloud</b></td>
+<td>AWS (Lambda, Redshift, Step Functions) · Azure (Data Factory, Speech, AI Studio) · GCP</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>Python · FastAPI · Django · PostgreSQL · REST APIs</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=witviggy&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witviggy&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=witviggy&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
+## Featured Work
 
----
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### 🌱 Work in Progress
+**HireAI**
+<br/>
+<sub>AI recruiting platform using voice agents to automate candidate screening, interviews, and hiring workflows.</sub>
+<br/><br/>
+[`→ github`](https://github.com/witviggy/HireAI)
 
-- [ ] Multi-agent research assistant using LangGraph
-- [ ] Voice-first customer support agent (production hardening)
-- [ ] Open-source RAG evaluation toolkit
+</td>
+<td width="33%" valign="top">
 
----
+**SpeechGPT**
+<br/>
+<sub>Raspberry Pi–based intelligent assistant combining speech recognition and object detection for interactive AI applications.</sub>
+<br/><br/>
+[`→ github`](https://github.com/witviggy/SpeechGPT)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vigneshoffcl/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vigneshoffclmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://viggyscorner.ai.studio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+</td>
+<td width="33%" valign="top">
+
+**ChatPDF**
+<br/>
+<sub>AI-powered document assistant using LangChain, OpenAI, and Streamlit to chat with your PDFs.</sub>
+<br/><br/>
+[`→ github`](https://github.com/witviggy/ChatPDF)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Recognition
+
+<table>
+<tr><td><b>National Finalist</b></td><td>Meta PyTorch OpenEnv Hackathon × Scaler — top team out of 31,000+ (2026)</td></tr>
+<tr><td><b>Semi-Finalist</b></td><td>Economic Times GenAI Hackathon (2026)</td></tr>
+<tr><td><b>Certified</b></td><td>Microsoft AI-103 · Claude Certified Architect Foundations · Microsoft AI-900</td></tr>
+</table>
+
+<br/>
+<br/>
+
+<div align="center">
+
+<sub>LET'S BUILD SOMETHING USEFUL</sub>
+
+<br/>
+
+[`Portfolio`](https://viggyscorner.ai.studio) &nbsp;/&nbsp; [`LinkedIn`](https://www.linkedin.com/in/vigneshoffcl/) &nbsp;/&nbsp; [`Email`](mailto:vigneshoffclmail@gmail.com)
+
+<br/>
+
+</div>
+
+
