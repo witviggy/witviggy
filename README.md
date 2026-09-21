@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://viggyscorner.ai.studio" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" /></a>
+  <a href="https://vignesh-moovendhan-genai.ai.studio/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/vigneshoffcl/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   &nbsp;
@@ -39,7 +39,7 @@
 
 > **AI/ML Engineer** with **2+ years** building production-grade Generative AI systems, hybrid RAG pipelines, and multi-agent frameworks. Experienced delivering end-to-end cloud data pipelines on AWS & Azure, integrating vector databases and LLMs into scalable enterprise software.
 >
-> 📍 **Chennai, India** &nbsp;•&nbsp; 🌐 **[viggyscorner.ai.studio](https://viggyscorner.ai.studio)**
+> 📍 **Chennai, India** &nbsp;•&nbsp; 🌐 **[vignesh-moovendhan-genai.ai.studio](https://vignesh-moovendhan-genai.ai.studio/)**
 
 <br/>
 
@@ -163,7 +163,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://viggyscorner.ai.studio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=38BDF8" alt="Portfolio" /></a>
+  <a href="https://vignesh-moovendhan-genai.ai.studio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=38BDF8" alt="Portfolio" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/vigneshoffcl/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   &nbsp;
