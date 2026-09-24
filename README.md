@@ -24,9 +24,31 @@
 
 ## ◈ About
 
-> **AI/ML Engineer** with **2+ years** building production-grade Generative AI systems, hybrid RAG pipelines, and multi-agent frameworks. Experienced delivering end-to-end cloud data pipelines on AWS & Azure, integrating vector databases and LLMs into scalable enterprise software.
->
-> 📍 **Chennai, India** &nbsp;•&nbsp; 🌐 **[vignesh-moovendhan-genai.ai.studio](https://vignesh-moovendhan-genai.ai.studio/)**
+<table>
+<tr>
+<td width="62%" valign="top">
+
+I design and ship **autonomous agent systems** — voice agents that close cold calls, RAG pipelines that don't hallucinate on domain jargon, and multi-agent frameworks that survive production traffic. Two years in, still happiest at the point where an LLM demo has to become something an enterprise can actually run on.
+
+Currently: shipping conversational AI at **Bonbloc Technologies**, chasing the gap between "works in a notebook" and "works at 2am with no one watching."
+
+</td>
+<td width="38%" valign="top">
+
+```yaml
+role:     AI/ML Engineer
+based_in: Chennai, India
+focus:    Agentic AI · Voice AI · RAG
+portfolio: vignesh-moovendhan-genai.ai.studio
+linkedin:  linkedin.com/in/vigneshoffcl
+```
+
+**[🌐 Portfolio →](https://vignesh-moovendhan-genai.ai.studio/)**
+**[💼 LinkedIn →](https://www.linkedin.com/in/vigneshoffcl/)**
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -42,30 +64,68 @@
 
 ## ◈ Experience
 
-### ▸ Bonbloc Technologies &nbsp;|&nbsp; `Associate Software Engineer`
-*Mar 2025 – Present &nbsp;•&nbsp; Chennai, India*
+<table>
+<tr><td>
 
-- **BonblocGPT** — Designed an enterprise conversational AI platform incorporating persistent conversation memory, granular RBAC, and org-wide knowledge retrieval.
-- **Autonomous Sales Voice Agent** — Engineered an outbound voice agent with **LangGraph**, **Twilio Programmable Voice**, and **ElevenLabs TTS/STT** executing structured cold discovery and live sales rep handoffs.
-- **TUNAI Veterinary Assistant** — Built a livestock disease diagnosis RAG pipeline with semantic chunking and reciprocal rank fusion on **LangChain** + **Qdrant**.
-- **Enterprise Legal & LMS** — Delivered compliance agents for automated NDA/MSA review and educational GenAI modules serving **10,000+** learners.
+**Bonbloc Technologies** — Associate Software Engineer
+&nbsp;&nbsp;<sub>Mar 2025 – Present · Chennai, India</sub>
 
+Own conversational AI end-to-end: an enterprise chat platform with persistent memory and RBAC, an outbound voice agent that runs live sales calls unattended, a veterinary diagnosis RAG pipeline, and compliance agents reviewing legal docs for 10,000+ learners.
+
+`LangGraph` `Twilio Voice` `ElevenLabs` `LangChain` `Qdrant` `RBAC`
+
+<details>
+<summary><sub>Show project breakdown</sub></summary>
 <br/>
 
-### ▸ Basal AI &nbsp;|&nbsp; `AI & Data Intern`
-*Dec 2024 – Mar 2025 &nbsp;•&nbsp; Bengaluru, India*
+- **BonblocGPT** — Enterprise conversational AI platform with persistent conversation memory, granular RBAC, and org-wide knowledge retrieval.
+- **Autonomous Sales Voice Agent** — Outbound voice agent on LangGraph + Twilio Programmable Voice + ElevenLabs TTS/STT, running structured cold discovery and live rep handoffs.
+- **TUNAI Veterinary Assistant** — Livestock disease diagnosis RAG pipeline with semantic chunking and reciprocal rank fusion on LangChain + Qdrant.
+- **Enterprise Legal & LMS** — Compliance agents for automated NDA/MSA review, plus educational GenAI modules serving 10,000+ learners.
 
-- **Macy's Serverless Pipeline** — Architected an automated ETL pipeline across **AWS Lambda**, **Amazon Redshift**, and **AWS Step Functions** adhering to Medallion architecture (Bronze → Silver → Gold) running with zero downtime for 6 months.
-- **Podcast Intelligence Hub** — Automated audio transcription, topic clustering, and executive brief synthesis via **Azure Speech Services** and LLMs.
-- **Synthetic Fashion Pipeline (Myntra)** — Prototyped a diffusion model photoshoot replacement tool projecting 60% per-SKU cost reduction.
+</details>
 
+</td></tr>
+<tr><td>
+
+**Basal AI** — AI & Data Intern
+&nbsp;&nbsp;<sub>Dec 2024 – Mar 2025 · Bengaluru, India</sub>
+
+Built the data backbone: a zero-downtime serverless ETL pipeline for Macy's, an audio-to-insight pipeline for podcast intelligence, and a diffusion-model prototype that cut Myntra's photoshoot costs by an estimated 60%.
+
+`AWS Lambda` `Redshift` `Step Functions` `Azure Speech` `Diffusion Models`
+
+<details>
+<summary><sub>Show project breakdown</sub></summary>
 <br/>
 
-### ▸ Genpact &nbsp;|&nbsp; `Software Intern`
-*Feb 2024 – Aug 2024 &nbsp;•&nbsp; Bengaluru, India*
+- **Macy's Serverless Pipeline** — Automated ETL across AWS Lambda, Amazon Redshift, and AWS Step Functions on a Medallion architecture (Bronze → Silver → Gold), zero downtime for 6 months.
+- **Podcast Intelligence Hub** — Automated audio transcription, topic clustering, and executive brief synthesis via Azure Speech Services and LLMs.
+- **Synthetic Fashion Pipeline (Myntra)** — Diffusion model photoshoot replacement tool projecting 60% per-SKU cost reduction.
 
-- **Cloud Data Engineering** — Developed data aggregation and transformation pipelines using **Azure Data Factory** and **Azure Stream Analytics** feeding real-time BI dashboards.
-- **Invoice Auditing AI** — Created an anomaly-detection and reconciliation tool using OpenAI APIs to streamline financial audits.
+</details>
+
+</td></tr>
+<tr><td>
+
+**Genpact** — Software Intern
+&nbsp;&nbsp;<sub>Feb 2024 – Aug 2024 · Bengaluru, India</sub>
+
+Shipped cloud data pipelines feeding real-time BI dashboards, and an anomaly-detection tool that used OpenAI APIs to catch invoice discrepancies before finance did.
+
+`Azure Data Factory` `Azure Stream Analytics` `OpenAI API`
+
+<details>
+<summary><sub>Show project breakdown</sub></summary>
+<br/>
+
+- **Cloud Data Engineering** — Data aggregation and transformation pipelines using Azure Data Factory and Azure Stream Analytics feeding real-time BI dashboards.
+- **Invoice Auditing AI** — Anomaly-detection and reconciliation tool using OpenAI APIs to streamline financial audits.
+
+</details>
+
+</td></tr>
+</table>
 
 <br/>
 
