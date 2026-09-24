@@ -34,10 +34,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=witviggy&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1&ring_color=0284C7" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=witviggy&hide_border=true&background=0F172A&stroke=0284C7&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=F0F9FF&sideNums=F0F9FF&dates=64748B" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=witviggy&theme=react-dark&bg_color=0F172A&color=38BDF8&line=0284C7&point=F0F9FF&area=true&hide_border=true" />
 
 </div>
 
@@ -121,10 +118,6 @@
 <br/>
 
 ## ◈ Recognition & Credentials
-
-<div align="center">
-<img width="80%" src="https://github-profile-trophy.vercel.app/?username=witviggy&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12&title=Repositories,Commits,Followers,Stars" />
-</div>
 
 | Milestone | Entity & Distinction | Year |
 | :--- | :--- | :---: |
