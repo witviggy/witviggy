@@ -1,36 +1,89 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Vignesh Moovendhan, AI Engineer. I build AI agents that talk, reason, and hold up in production." />
+# Vignesh Moovendhan
 
-<p>
-  <a href="https://vignesh-moovendhan-genai.ai.studio/">Portfolio ↗</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/vigneshoffcl/">LinkedIn ↗</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:vigneshoffclmail@gmail.com">Email ↗</a>
-</p>
+**AI/ML Engineer** building agentic AI, RAG pipelines, and voice systems that run in production — not just in a notebook.
+
+Chennai, India
+
+[**Portfolio**](https://vignesh-moovendhan-genai.ai.studio/) · [**LinkedIn**](https://www.linkedin.com/in/vigneshoffcl/) · [**Email**](mailto:vigneshoffclmail@gmail.com) · [**GitHub**](https://github.com/witviggy)
 
 <br/>
 
-<img src="assets/experience.svg" width="100%" alt="Experience: Bonbloc AI (Associate Software Engineer, Mar 2025 – Sep 2026), Basal AI (AI & Data Intern, Dec 2024 – Mar 2025), Genpact (Software Intern, Feb – Aug 2024)" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,aws,azure,docker,ts&theme=dark" />
 
-<br/><br/>
+</div>
 
-<img src="assets/label-work.svg" width="100%" alt="Selected work" />
-<a href="https://github.com/witviggy/hireaid"><img src="assets/card-hireai.svg" width="32%" alt="HireAId: AI recruiting workspace for sourcing, ranking and voice screening candidates" /></a>
-<a href="https://github.com/witviggy/SpeechGPT"><img src="assets/card-speechgpt.svg" width="32%" alt="SpeechGPT: Raspberry Pi assistant with speech recognition and object detection" /></a>
-<a href="https://github.com/witviggy/ChatPDF"><img src="assets/card-chatpdf.svg" width="32%" alt="ChatPDF: PDF chatbot built with Streamlit, LangChain and OpenAI" /></a>
+<br/>
 
-<br/><br/>
+## Experience
 
-<img src="assets/recognition.svg" width="100%" alt="Recognition: National Finalist, Meta PyTorch OpenEnv Hackathon 2026 (31,000+ teams); Semi-Finalist, Economic Times GenAI Hackathon 2026; Microsoft AI-103; Microsoft AI-901; Genpact GenAI Certified; Anna University Rank 20" />
+**Bonbloc AI** · Associate Software Engineer · Chennai &nbsp;&nbsp;<sub>Mar 2025 – Sep 2026</sub>
 
-<br/><br/>
+Building the backend and AI layer for an enterprise agent platform — async FastAPI services with RBAC and auth, and LangGraph/LangChain agents doing RAG, tool calling, and multi-step reasoning across HR, sales, finance, and education. Cut HR query resolution time by 90% and lifted sales productivity by 30%.
 
-<img src="assets/stack.svg" width="100%" alt="Stack: LangGraph, LangChain, Qdrant, Milvus, pgvector, OpenAI API, Azure AI, Python, FastAPI, PostgreSQL, Redis, Docker, AWS, Azure" />
+<sub>LangGraph · LangChain · FastAPI · AsyncIO · Qdrant · Milvus · pgvector · RBAC</sub>
 
-<br/><br/>
+**Basal AI** · AI & Data Intern · Bengaluru &nbsp;&nbsp;<sub>Dec 2024 – Mar 2025</sub>
 
-<img src="https://raw.githubusercontent.com/witviggy/witviggy/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
+Built a serverless data pipeline for Macy's on a Bronze-Silver-Gold architecture, automating 180+ pipeline runs a day for six months. Also shipped Azure Speech + LLM pipelines for transcription and insight generation, and prototyped a GenAI imagery tool projecting ~60% lower per-SKU photography costs.
+
+<sub>AWS Lambda · Redshift · Step Functions · Azure Speech Services</sub>
+
+**Genpact** · Software Intern · Bengaluru &nbsp;&nbsp;<sub>Feb 2024 – Aug 2024</sub>
+
+Built OpenAI-powered backend workflows for classification and task routing, LLM document processing for financial anomaly detection, and enterprise ETL / real-time streaming with Azure Data Factory and Stream Analytics.
+
+<sub>OpenAI API · Azure Data Factory · Azure Stream Analytics</sub>
+
+<br/>
+
+## Projects
+
+| | |
+| :--- | :--- |
+| **Enterprise AI Suite** | Agentic HR (sourcing, screening, voice interviews) and Sales (outreach, RFPs, market research) workflows — 90% faster HR resolution, 30% more sales productivity. |
+| **Enterprise FinOps Tool** | Schema-aware agents that turn natural-language finance questions into SQL, reasoning over NetSuite data for spend analysis and cash-flow projections. |
+| **AI-Native Learning Platform** | Course transcription, translation, and an STT/TTS AI tutor with performance-aware reasoning, serving 10,000+ students. |
+| [**HireAId**](https://github.com/witviggy/hireaid) | AI recruiting workspace — source, rank, and voice-screen candidates. |
+| [**SpeechGPT**](https://github.com/witviggy/SpeechGPT) | Raspberry Pi assistant combining speech recognition with object detection. |
+| [**ChatPDF**](https://github.com/witviggy/ChatPDF) | Chat with your PDFs — built on Streamlit, LangChain, and OpenAI. |
+
+<br/>
+
+## Skills
+
+**AI & LLMs** &nbsp;LangChain · LangGraph · RAG · ReAct Agents · Multi-Agent Systems · Function Calling · Structured Outputs · Guardrails · LLM Evaluation · MCP · HITL · Prompt Engineering
+
+**Backend** &nbsp;Python · FastAPI · REST APIs · PostgreSQL · Pydantic · AsyncIO · WebSockets · Microservices · Auth/RBAC
+
+**Data & Infra** &nbsp;Qdrant · Milvus · pgvector · Redis · Docker · Git · AWS (Lambda, Redshift, Step Functions) · Azure
+
+<br/>
+
+## Recognition
+
+- 🏆 **National Finalist** — Meta PyTorch OpenEnv Hackathon × Scaler, top team of 31,000+ (2026)
+- 🥈 **Semi-Finalist** — Economic Times GenAI Hackathon (2026)
+- 📜 Microsoft Certified: **AI-103** — Developing AI Apps & Agents on Azure (2026)
+- 📜 Microsoft Certified: **AI-901** — Azure AI Fundamentals (2026)
+- 📜 **Genpact GenAI Certified Professional** (2024)
+- 🎓 Anna University Rank 20, B.E. Electrical & Electronics Engineering — CGPA 8.93/10 (2024)
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/witviggy/witviggy/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+[Portfolio](https://vignesh-moovendhan-genai.ai.studio/) · [LinkedIn](https://www.linkedin.com/in/vigneshoffcl/) · [Email](mailto:vigneshoffclmail@gmail.com) · [GitHub](https://github.com/witviggy)
+
+<sub>© 2026 Vignesh Moovendhan</sub>
 
 </div>
