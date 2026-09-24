@@ -12,22 +12,22 @@
 
 <br/>
 
-<img src="assets/experience.svg" width="100%" alt="Experience: Bonbloc Technologies (Associate Software Engineer, 2025–now), Basal AI (AI & Data Intern, 2024–25), Genpact (Software Intern, 2024)" />
+<img src="assets/experience.svg" width="100%" alt="Experience: Bonbloc AI (Associate Software Engineer, Mar 2025 – Sep 2026), Basal AI (AI & Data Intern, Dec 2024 – Mar 2025), Genpact (Software Intern, Feb – Aug 2024)" />
 
 <br/><br/>
 
 <img src="assets/label-work.svg" width="100%" alt="Selected work" />
-<a href="https://github.com/witviggy/hireaid"><img src="assets/card-hireai.svg" width="32%" alt="HireAI: voice agents that screen candidates and book interviews" /></a>
-<a href="https://github.com/witviggy/SpeechGPT"><img src="assets/card-speechgpt.svg" width="32%" alt="SpeechGPT: Raspberry Pi assistant with speech and real-time vision" /></a>
-<a href="https://github.com/witviggy/ChatPDF"><img src="assets/card-chatpdf.svg" width="32%" alt="ChatPDF: chat with long PDFs and get answers with citations" /></a>
+<a href="https://github.com/witviggy/hireaid"><img src="assets/card-hireai.svg" width="32%" alt="HireAId: AI recruiting workspace for sourcing, ranking and voice screening candidates" /></a>
+<a href="https://github.com/witviggy/SpeechGPT"><img src="assets/card-speechgpt.svg" width="32%" alt="SpeechGPT: Raspberry Pi assistant with speech recognition and object detection" /></a>
+<a href="https://github.com/witviggy/ChatPDF"><img src="assets/card-chatpdf.svg" width="32%" alt="ChatPDF: PDF chatbot built with Streamlit, LangChain and OpenAI" /></a>
 
 <br/><br/>
 
-<img src="assets/recognition.svg" width="100%" alt="Recognition: National Finalist, Meta PyTorch OpenEnv Hackathon (top team of 31,000+); Semi-finalist, Economic Times GenAI Hackathon; Claude Certified Architect; Azure AI-103; Azure AI-900" />
+<img src="assets/recognition.svg" width="100%" alt="Recognition: National Finalist, Meta PyTorch OpenEnv Hackathon 2026 (31,000+ teams); Semi-Finalist, Economic Times GenAI Hackathon 2026; Microsoft AI-103; Microsoft AI-901; Genpact GenAI Certified; Anna University Rank 20" />
 
 <br/><br/>
 
-<img src="assets/stack.svg" width="100%" alt="Stack: LangGraph, LangChain, CrewAI, Qdrant, OpenAI, Claude, Python, FastAPI, AWS, Azure" />
+<img src="assets/stack.svg" width="100%" alt="Stack: LangGraph, LangChain, Qdrant, Milvus, pgvector, OpenAI API, Azure AI, Python, FastAPI, PostgreSQL, Redis, Docker, AWS, Azure" />
 
 <br/><br/>
 

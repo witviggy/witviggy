@@ -14,15 +14,15 @@
   <g class="mono k">
     <text x="36" y="92">AGENTS</text>
     <text x="36" y="126">RAG</text>
-    <text x="36" y="160">MODELS</text>
+    <text x="36" y="160">LLM</text>
     <text x="36" y="194">BACKEND</text>
-    <text x="36" y="228">CLOUD</text>
+    <text x="36" y="228">DATA · INFRA</text>
   </g>
   <g class="sans v">
-    <text x="160" y="92">LangGraph <tspan class="sep">/</tspan> LangChain <tspan class="sep">/</tspan> CrewAI <tspan class="sep">/</tspan> Agno <tspan class="sep">/</tspan> Twilio Voice <tspan class="sep">/</tspan> ElevenLabs</text>
-    <text x="160" y="126">Qdrant <tspan class="sep">/</tspan> Milvus <tspan class="sep">/</tspan> Hybrid search <tspan class="sep">/</tspan> Reranking <tspan class="sep">/</tspan> Semantic chunking</text>
-    <text x="160" y="160">OpenAI <tspan class="sep">/</tspan> Claude <tspan class="sep">/</tspan> LlamaIndex <tspan class="sep">/</tspan> Function calling</text>
-    <text x="160" y="194">Python <tspan class="sep">/</tspan> FastAPI <tspan class="sep">/</tspan> Django <tspan class="sep">/</tspan> PostgreSQL <tspan class="sep">/</tspan> MongoDB <tspan class="sep">/</tspan> AsyncIO</text>
-    <text x="160" y="228">AWS Lambda <tspan class="sep">/</tspan> Redshift <tspan class="sep">/</tspan> Step Functions <tspan class="sep">/</tspan> Azure AI Studio <tspan class="sep">/</tspan> Docker</text>
+    <text x="160" y="92">LangGraph <tspan class="sep">/</tspan> LangChain <tspan class="sep">/</tspan> ReAct <tspan class="sep">/</tspan> Multi-agent <tspan class="sep">/</tspan> MCP <tspan class="sep">/</tspan> HITL <tspan class="sep">/</tspan> Guardrails</text>
+    <text x="160" y="126">Qdrant <tspan class="sep">/</tspan> Milvus <tspan class="sep">/</tspan> pgvector <tspan class="sep">/</tspan> Hybrid search <tspan class="sep">/</tspan> Reranking <tspan class="sep">/</tspan> Contextual retrieval</text>
+    <text x="160" y="160">OpenAI API <tspan class="sep">/</tspan> Azure AI <tspan class="sep">/</tspan> Function calling <tspan class="sep">/</tspan> Structured outputs <tspan class="sep">/</tspan> LLM evaluation</text>
+    <text x="160" y="194">Python <tspan class="sep">/</tspan> FastAPI <tspan class="sep">/</tspan> Pydantic <tspan class="sep">/</tspan> AsyncIO <tspan class="sep">/</tspan> WebSockets <tspan class="sep">/</tspan> Microservices <tspan class="sep">/</tspan> RBAC</text>
+    <text x="160" y="228">PostgreSQL <tspan class="sep">/</tspan> Redis <tspan class="sep">/</tspan> Docker <tspan class="sep">/</tspan> AWS Lambda · Redshift · Step Functions <tspan class="sep">/</tspan> Azure</text>
   </g>
 </svg>
