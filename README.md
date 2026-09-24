@@ -24,31 +24,27 @@
 
 ## ◈ About
 
-<table>
-<tr>
-<td width="62%" valign="top">
+```python
+class Vignesh:
+    role     = "AI/ML Engineer"
+    base     = "Chennai, India"
+    exp      = "2+ years"
+    builds   = ["voice agents", "hybrid RAG", "multi-agent systems"]
+    ships_on = ["AWS", "Azure"]
 
-I design and ship **autonomous agent systems** — voice agents that close cold calls, RAG pipelines that don't hallucinate on domain jargon, and multi-agent frameworks that survive production traffic. Two years in, still happiest at the point where an LLM demo has to become something an enterprise can actually run on.
+    def philosophy(self):
+        return "A demo is a promise. Production is keeping it."
 
-Currently: shipping conversational AI at **Bonbloc Technologies**, chasing the gap between "works in a notebook" and "works at 2am with no one watching."
-
-</td>
-<td width="38%" valign="top">
-
-```yaml
-role:     AI/ML Engineer
-based_in: Chennai, India
-focus:    Agentic AI · Voice AI · RAG
-portfolio: vignesh-moovendhan-genai.ai.studio
-linkedin:  linkedin.com/in/vigneshoffcl
+    links = {
+        "portfolio": "vignesh-moovendhan-genai.ai.studio",
+        "linkedin":  "linkedin.com/in/vigneshoffcl",
+    }
 ```
 
-**[🌐 Portfolio →](https://vignesh-moovendhan-genai.ai.studio/)**
-**[💼 LinkedIn →](https://www.linkedin.com/in/vigneshoffcl/)**
-
-</td>
-</tr>
-</table>
+<p>
+  <a href="https://vignesh-moovendhan-genai.ai.studio/"><img src="https://img.shields.io/badge/→_portfolio-0F172A?style=flat-square&logo=vercel&logoColor=38BDF8" /></a>
+  <a href="https://www.linkedin.com/in/vigneshoffcl/"><img src="https://img.shields.io/badge/→_linkedin-0F172A?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
+</p>
 
 <br/>
 
@@ -64,68 +60,27 @@ linkedin:  linkedin.com/in/vigneshoffcl
 
 ## ◈ Experience
 
-<table>
-<tr><td>
+```console
+$ git log --career --oneline
+```
 
-**Bonbloc Technologies** — Associate Software Engineer
-&nbsp;&nbsp;<sub>Mar 2025 – Present · Chennai, India</sub>
+```diff
+@@ 2025-03 → present · bonbloc-technologies · Associate Software Engineer · (HEAD) @@
++ BonblocGPT         enterprise chat platform w/ persistent memory + granular RBAC
++ sales-voice-agent  autonomous outbound calls: LangGraph + Twilio + ElevenLabs
++ tunai-vet-rag      livestock diagnosis RAG, semantic chunking + RRF on Qdrant
++ legal-lms-agents   NDA/MSA review agents + GenAI modules for 10,000+ learners
 
-Own conversational AI end-to-end: an enterprise chat platform with persistent memory and RBAC, an outbound voice agent that runs live sales calls unattended, a veterinary diagnosis RAG pipeline, and compliance agents reviewing legal docs for 10,000+ learners.
+@@ 2024-12 → 2025-03 · basal-ai · AI & Data Intern @@
++ macys-etl          serverless Medallion ETL (Lambda, Redshift, Step Functions)
++                    → 6 months, zero downtime
++ podcast-intel      transcription → topic clusters → exec briefs (Azure Speech)
++ myntra-diffusion   synthetic photoshoots → ~60% per-SKU cost reduction
 
-`LangGraph` `Twilio Voice` `ElevenLabs` `LangChain` `Qdrant` `RBAC`
-
-<details>
-<summary><sub>Show project breakdown</sub></summary>
-<br/>
-
-- **BonblocGPT** — Enterprise conversational AI platform with persistent conversation memory, granular RBAC, and org-wide knowledge retrieval.
-- **Autonomous Sales Voice Agent** — Outbound voice agent on LangGraph + Twilio Programmable Voice + ElevenLabs TTS/STT, running structured cold discovery and live rep handoffs.
-- **TUNAI Veterinary Assistant** — Livestock disease diagnosis RAG pipeline with semantic chunking and reciprocal rank fusion on LangChain + Qdrant.
-- **Enterprise Legal & LMS** — Compliance agents for automated NDA/MSA review, plus educational GenAI modules serving 10,000+ learners.
-
-</details>
-
-</td></tr>
-<tr><td>
-
-**Basal AI** — AI & Data Intern
-&nbsp;&nbsp;<sub>Dec 2024 – Mar 2025 · Bengaluru, India</sub>
-
-Built the data backbone: a zero-downtime serverless ETL pipeline for Macy's, an audio-to-insight pipeline for podcast intelligence, and a diffusion-model prototype that cut Myntra's photoshoot costs by an estimated 60%.
-
-`AWS Lambda` `Redshift` `Step Functions` `Azure Speech` `Diffusion Models`
-
-<details>
-<summary><sub>Show project breakdown</sub></summary>
-<br/>
-
-- **Macy's Serverless Pipeline** — Automated ETL across AWS Lambda, Amazon Redshift, and AWS Step Functions on a Medallion architecture (Bronze → Silver → Gold), zero downtime for 6 months.
-- **Podcast Intelligence Hub** — Automated audio transcription, topic clustering, and executive brief synthesis via Azure Speech Services and LLMs.
-- **Synthetic Fashion Pipeline (Myntra)** — Diffusion model photoshoot replacement tool projecting 60% per-SKU cost reduction.
-
-</details>
-
-</td></tr>
-<tr><td>
-
-**Genpact** — Software Intern
-&nbsp;&nbsp;<sub>Feb 2024 – Aug 2024 · Bengaluru, India</sub>
-
-Shipped cloud data pipelines feeding real-time BI dashboards, and an anomaly-detection tool that used OpenAI APIs to catch invoice discrepancies before finance did.
-
-`Azure Data Factory` `Azure Stream Analytics` `OpenAI API`
-
-<details>
-<summary><sub>Show project breakdown</sub></summary>
-<br/>
-
-- **Cloud Data Engineering** — Data aggregation and transformation pipelines using Azure Data Factory and Azure Stream Analytics feeding real-time BI dashboards.
-- **Invoice Auditing AI** — Anomaly-detection and reconciliation tool using OpenAI APIs to streamline financial audits.
-
-</details>
-
-</td></tr>
-</table>
+@@ 2024-02 → 2024-08 · genpact · Software Intern @@
++ azure-bi-pipes     ADF + Stream Analytics → real-time BI dashboards
++ invoice-audit-ai   OpenAI-powered anomaly detection & reconciliation
+```
 
 <br/>
 
